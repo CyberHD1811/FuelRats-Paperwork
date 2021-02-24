@@ -1,18 +1,9 @@
-Cmdr name: TheHappiestClientEver
-Squadron: /
-Rank: Expert
-Status: Clean
-Powerplay faction: Li Yong-Rui
-
 Ship type: Anaconda
 Ship name: I GOT RESCUED
-Ship id: THANKS
 Fuel Scoop: nope
 
-Limpets fired: 16 + AnotherHelpfulRat
 Debrief: yes
 Notes: The client had problems with turning on their beacon, debrief took place in wing chat (in german).
-Extra Links: /
 
 Dispatcher: Rat[Dispatch]-(Rat[PC]), AnotherSpatch[PC]
 
