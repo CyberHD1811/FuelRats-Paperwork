@@ -12,5 +12,5 @@ Feel free to use it
 
 ---
 
-Every explanation are ONLY recommendations based on my experiance with this structure.
+Every explanation are ONLY recommendations based on my experience with this structure.
 If i can't fill out something, i usually use a / as placeholder, but you can ofc leave it empty
