@@ -12,5 +12,15 @@ Feel free to use it
 
 ---
 
+### pw.txt
+- Good for Rats, who want to have a structure
+
+### pwExtended.txt
+- You want to put every information into your paperwork, well here you go
+
+<br>
+
+---
+
 Every explanation are ONLY recommendations based on my experience with this structure.
 If i can't fill out something, i usually use a / as placeholder, but you can ofc leave it empty
