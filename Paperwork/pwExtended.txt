@@ -1,0 +1,19 @@
+Cmdr name: [Cmdr name (in caps)]
+Squadron: [Squadron id (in caps)]
+Rank: [Combat rank]
+Status: Lawless/Clean/Wanted
+Powerplay faction: [Powerplay faction leader name]
+
+Ship type: [Ship type]
+Ship name: [Ship Name (in caps)]
+Ship id: [Ship ID (in caps)]
+Fuel Scoop: yes/no
+
+Limpets fired: [the limpets you fired +(every other Rat name who fired limpets)]
+Debrief: yes/no
+Notes: [everything you want to say about the rescue/debrief]
+Extra Links: [e.g. pastebin for chat logs]
+
+Dispatcher: [All dispatchers (If they use a dispatch alisas, put the rat nama in brackets behind)]
+
+Paperwork done by [Your name] o7
