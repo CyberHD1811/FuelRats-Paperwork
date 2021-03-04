@@ -12,10 +12,10 @@ Feel free to use it
 
 ---
 
-### pw.txt
+### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw.txt)
 - Good for Rats, who want to have a structure
 
-### pwExtended.txt
+### [pwExtended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pwExtended.txt)
 - You want to put every information into your paperwork, well here you go
 
 <br>
@@ -23,4 +23,4 @@ Feel free to use it
 ---
 
 Every explanation are ONLY recommendations based on my experience with this structure.
-If i can't fill out something, i usually use a / as placeholder, but you can ofc leave it empty
+If i can't fill out something, i usually use a / as placeholder, but you can ofc leave it empty.
