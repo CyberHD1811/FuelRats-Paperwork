@@ -14,6 +14,6 @@ Debrief: yes/no
 Notes: [everything you want to say about the rescue/debrief]
 Extra Links: [e.g. pastebin for chat logs]
 
-Dispatcher: [All dispatchers (If they use a dispatch alisas, put the rat nama in brackets behind)]
+Dispatcher: [All dispatchers (If they use a dispatch alisas, put the rat name in brackets behind)]
 
 Paperwork done by [Your name] o7
