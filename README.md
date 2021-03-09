@@ -12,15 +12,31 @@ Feel free to use it
 
 ---
 
-### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw.txt)
-- Good for Rats, who want to have a structure
+## Raw files (with explanations):
 
-### [pwExtended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pwExtended.txt)
-- You want to put every information into your paperwork, well here you go
+- ### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw.txt)
+    - Good for Rats, who want to have a structure
+
+- ### [pwExtended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pwExtended.txt)
+    - You want to put every information into your paperwork? Well here you go
 
 <br>
+
+## Examples:
+
+- #### [pw-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-example.txt)
+
+- #### [pwExtended-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pwExtened-example.txt)
 
 ---
 
 Every explanation are ONLY recommendations based on my experience with this structure.
 If i can't fill out something, i usually use a / as placeholder, but you can ofc leave it empty.
+
+<br>
+
+---
+
+## Ideas/Mistakes:
+
+If you have any ideas you want to see in a paperwork structure or found a mistake, feel free to contact me in IRC. :)
