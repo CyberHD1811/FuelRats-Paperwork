@@ -14,27 +14,27 @@ Feel free to use it
 
 ## Raw files (without explanations):
 
-- ### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw.txt) V1.0
+- ### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw.txt) V1.1
 
-- ### [pw-extended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended.txt) V1.0
+- ### [pw-extended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended.txt) V1.1
 
 <br>
 
 ## Files (with explanations):
 
-- ### [pw-explanations.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-explanations.txt) V1.0
+- ### [pw-explanations.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-explanations.txt) V1.1
     - Good for Rats, who want to have a structure
 
-- ### [pw-extended-explanations.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-explanations.txt) V1.0
+- ### [pw-extended-explanations.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-explanations.txt) V1.1
     - You want to put every information into your paperwork? Well here you go
 
 <br>
 
 ## Example files:
 
-- #### [pw-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-example.txt) V1.0
+- #### [pw-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-example.txt) V1.1
 
-- #### [pwExtended-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-example.txt) V1.0
+- #### [pwExtended-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-example.txt) V1.1
 
 <br>
 
