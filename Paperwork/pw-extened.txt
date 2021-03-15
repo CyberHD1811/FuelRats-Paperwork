@@ -1,11 +1,17 @@
+Cmdr name:
+Rank:
+
 Ship type:
 Ship name:
+Ship id:
 Fuel Scoop: yes/no
 
 Limpets fired:
+Rescue notes:
 
 Debrief type:
-Debrief:
+Debrief notes:
+Extra Links:
 
 Dispatcher:
 

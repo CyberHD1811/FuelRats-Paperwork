@@ -1,10 +1,13 @@
-Ship type: Anaconda
-Ship name: I GOT RESCUED
-Fuel Scoop: nope
+Ship type: Asp Explorer
+Ship name: Examplorer
+Fuel Scoop: yes
 
-Debrief: yes
-Notes: The client had problems with turning on their beacon, debrief took place in wing chat (in german).
+Limpets fired: 16
 
-Dispatcher: Rat[Dispatch]-(Rat[PC]), AnotherSpatch[PC]
+Debrief type: basic
+Notes: He forgot to have "apply filter to route" selected. 
 
-Paperwork done by CyberHD o7
+Dispatcher: ExmapleSpatch(ExampleRat)
+
+Paperwork done by CyberHD
+o7

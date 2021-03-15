@@ -12,25 +12,39 @@ Feel free to use it
 
 ---
 
-## Raw files (with explanations):
+## Raw files (without explanations):
 
-- ### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw.txt)
+- ### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw.txt) V1.0
+
+- ### [pw-extended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended.txt) V1.0
+
+<br>
+
+## Files (with explanations):
+
+- ### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-explanatios.txt) V1.0
     - Good for Rats, who want to have a structure
 
-- ### [pwExtended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pwExtended.txt)
+- ### [pwExtended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-explanations.txt) V1.0
     - You want to put every information into your paperwork? Well here you go
 
 <br>
 
-## Examples:
+## Example files:
 
-- #### [pw-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-example.txt)
+- #### [pw-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-example.txt) V1.0
 
-- #### [pwExtended-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pwExtened-example.txt)
+- #### [pwExtended-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extened-example.txt) V1.0
+
+<br>
 
 ---
 
-Every explanation are ONLY recommendations based on my experience with this structure.
+## Informations:
+
+Please note that with release of the Version 1.0 there only will be minimal personal information about the client. We all want to have our privacy and because we don't ask the clients, we shouldn't use too much information about them.
+
+Every explanations are ONLY recommendations based on my experience with this structure.
 If i can't fill out something, i usually use a / as placeholder, but you can ofc leave it empty.
 
 <br>

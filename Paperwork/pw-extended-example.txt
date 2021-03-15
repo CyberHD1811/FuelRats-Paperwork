@@ -1,0 +1,19 @@
+Cmdr name: Cyber4k
+Rank: Harmless
+
+Ship type: Asp Explorer
+Ship name: Examplorer
+Ship id: AA-AAA
+Fuel Scoop: yes
+
+Limpets fired: 16
+Rescue notes: Client was in ez -> sc hop, got inst+ 40km away due to a well known bug.
+
+Debrief type: extended
+Debrief notes: Client needed to be escorted to closest FleetCarrier (THE RAT NEST VON-NQX in FUELUM)
+Extra Links: /
+
+Dispatcher: ExmapleSpatch(ExampleRat)
+
+Paperwork done by CyberHD
+o7
