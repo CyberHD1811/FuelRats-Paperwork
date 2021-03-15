@@ -6,6 +6,7 @@ Ship name: Examplorer
 Ship id: AA-AAA
 Fuel Scoop: yes
 
+Systems: FUELUM, JACKSON'S LIGHTHOUSE
 Limpets fired: 16
 Rescue notes: Client was in ez -> sc hop, got inst+ 40km away due to a well known bug.
 

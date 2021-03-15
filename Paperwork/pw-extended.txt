@@ -6,10 +6,11 @@ Ship name:
 Ship id:
 Fuel Scoop: yes/no
 
+Systems:
 Limpets fired:
 Rescue notes:
 
-Debrief type:
+Debrief type: basic/extended/declined/unresponsive/other
 Debrief notes:
 Extra Links:
 

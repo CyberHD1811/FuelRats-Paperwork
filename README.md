@@ -22,10 +22,10 @@ Feel free to use it
 
 ## Files (with explanations):
 
-- ### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-explanatios.txt) V1.0
+- ### [pw-explanations.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-explanations.txt) V1.0
     - Good for Rats, who want to have a structure
 
-- ### [pwExtended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-explanations.txt) V1.0
+- ### [pw-extended-explanations.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-explanations.txt) V1.0
     - You want to put every information into your paperwork? Well here you go
 
 <br>
@@ -34,7 +34,7 @@ Feel free to use it
 
 - #### [pw-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-example.txt) V1.0
 
-- #### [pwExtended-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extened-example.txt) V1.0
+- #### [pwExtended-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-example.txt) V1.0
 
 <br>
 
@@ -46,6 +46,9 @@ Please note that with release of the Version 1.0 there only will be minimal pers
 
 Every explanations are ONLY recommendations based on my experience with this structure.
 If i can't fill out something, i usually use a / as placeholder, but you can ofc leave it empty.
+
+
+##### Special thanks to [AlphaJarvis](https://github.com/AlphaJarvis) for the help.
 
 <br>
 

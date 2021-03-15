@@ -6,6 +6,7 @@ Ship name: [Ship Name (in caps)]
 Ship id: [Ship ID (in caps)]
 Fuel Scoop: yes/no
 
+Systems: [System names (in caps) where the rescue took place]
 Limpets fired: [the limpets you fired +(every other Rat name who fired limpets)]
 Rescue notes: [everything you want to say about the rescue itself]
 

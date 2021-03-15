@@ -4,7 +4,7 @@ Fuel Scoop: yes/no
 
 Limpets fired:
 
-Debrief type:
+Debrief type: basic/extended/declined/unresponsive/other
 Debrief:
 
 Dispatcher:
