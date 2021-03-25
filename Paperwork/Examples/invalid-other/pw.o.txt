@@ -1,0 +1,12 @@
+Filed as: other
+Short reason: Client selfdestruct
+Explanation: When we got inst+ we saw the explosion of the client and they left game and wrote in IRC: "I don't want to steal your time. I selfdestructed me.".
+
+Cmdr name: DOESITMATTER
+Systems: Lave
+
+Dispatcher: Spatcher1000
+
+Paperwork done by Cyber4k
+with https://github.com/CyberHD1811/FuelRats-Paperwork/
+o7

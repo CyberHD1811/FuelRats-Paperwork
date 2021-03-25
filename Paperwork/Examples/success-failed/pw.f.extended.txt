@@ -1,0 +1,23 @@
+Filed as: failed
+
+Cmdr name: SUNCRASHER
+Rank: ? 
+
+Ship type: Federal Corvette
+Ship name: ?
+Ship id: ?
+Fuel Scoop: ?
+
+Systems: CORE SYS SECTOR EG-Y D96
+Limpets fired: /
+Rescue notes: Client had 30secs of o2 left (not the 3 1/2 mins they told us), he was a blind drop, got inst+ 8,43km but they god destroyed before i could target them.
+
+Debrief type: unresponsive
+Debrief notes: Client didn't react to wing chat, left them after 15mins (they didn't even respawned in this time).
+Extra Links: /
+
+Dispatcher: SpatchRat
+
+Paperwork done by OmegaJarvis
+with https://github.com/CyberHD1811/FuelRats-Paperwork/
+o7

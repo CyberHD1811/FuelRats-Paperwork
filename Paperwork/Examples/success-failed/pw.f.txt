@@ -1,0 +1,15 @@
+Filed as: failed
+
+Ship type: Adder
+Fuel Scoop: no
+
+Limpets fired: /
+
+Debrief type: extended
+Debrief: Told Client about allegiance filter, fuel scoops, kgbfoam + filter and orange line.
+
+Dispatcher: RatSpatch
+
+Paperwork done by Cyber4k
+with https://github.com/CyberHD1811/FuelRats-Paperwork/
+o7

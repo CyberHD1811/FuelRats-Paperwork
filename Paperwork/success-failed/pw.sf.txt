@@ -1,20 +1,15 @@
-Cmdr name:
-Rank:
+Filed as: success/failed
 
 Ship type:
-Ship name:
-Ship id:
 Fuel Scoop: yes/no
 
-Systems:
 Limpets fired:
-Rescue notes:
 
 Debrief type: basic/extended/declined/unresponsive/other
-Debrief notes:
-Extra Links:
+Debrief:
 
 Dispatcher:
 
 Paperwork done by
+with https://github.com/CyberHD1811/FuelRats-Paperwork/
 o7

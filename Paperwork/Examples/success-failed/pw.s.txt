@@ -1,0 +1,15 @@
+Filed as: success
+
+Ship type: Hauler
+Fuel Scoop: yes
+
+Limpets fired: 12
+
+Debrief type: basic
+Debrief: Client knew about kgbfoam, but not about the kgbfoam filter and the orange line.
+
+Dispatcher: RatSpatch
+
+Paperwork done by Cyber4k
+with https://github.com/CyberHD1811/FuelRats-Paperwork/
+o7

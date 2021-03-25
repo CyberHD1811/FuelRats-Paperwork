@@ -1,0 +1,23 @@
+Filed as: success
+
+Cmdr name: LIGHT LIGHT
+Rank: Harmless
+
+Ship type: Sidewinder
+Ship name: SIDEWINDER
+Ship id: LL-23S
+Fuel Scoop: no
+
+Systems: HYADES SECTOR JS-T B3-4, ARIETIS SECTOR ZE-A C6, HIP 11847
+Limpets fired: 8
+Rescue notes: Rescue followed CR SOP, Client was still in other system even with menu sys check.
+
+Debrief type: extended
+Debrief notes: Told Client about economy filter, fuelscoops + kgbfoam + kgbfoam filter, orange line, escorted them to a near station (HIP 11847).
+Extra Links: /
+
+Dispatcher: CyberHD
+
+Paperwork done by AlphaJarvis
+with https://github.com/CyberHD1811/FuelRats-Paperwork/
+o7

@@ -4,56 +4,38 @@
 
 o7 Rats
 
-I've just came up with an idea. Why should i "hide" my Paperwork structure and not share it with everyone? Well, there's no good reason, so i decided to publish it. It may help some of you, for not just typing "Client debriefed", "He went offline" or leaving it completly empty.
+If you have ever thought about not leaving your paperwork empty, but were too lazy? Then this is the best thing for you. [FuelRats-Paperwork](https://github.com/CyberHD1811/FuelRats-Paperwork) comes with two different versions for succesful/failed rescues and one for invalid/other rescues.
 
-Feel free to use it
-
-<br>
-
----
-
-## Raw files (without explanations):
-
-- ### [pw.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw.txt) V1.1
-
-- ### [pw-extended.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended.txt) V1.1
-
-<br>
-
-## Files (with explanations):
-
-- ### [pw-explanations.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-explanations.txt) V1.1
-    - Good for Rats, who want to have a structure
-
-- ### [pw-extended-explanations.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-explanations.txt) V1.1
-    - You want to put every information into your paperwork? Well here you go
-
-<br>
-
-## Example files:
-
-- #### [pw-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-example.txt) V1.1
-
-- #### [pwExtended-example.txt](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/pw-extended-example.txt) V1.1
+Feel free to use it :).
 
 <br>
 
 ---
 
-## Informations:
+## Files:
 
-Please note that with release of the Version 1.0 there only will be minimal personal information about the client. We all want to have our privacy and because we don't ask the clients, we shouldn't use too much information about them.
+- ### success/failed:
+    - #### [Success-Failed Normal](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/success-failed/pw.sf.txt)
 
-Every explanations are ONLY recommendations based on my experience with this structure.
-If i can't fill out something, i usually use a / as placeholder, but you can ofc leave it empty.
+    - #### [Success-Failed Extended](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/success-failed/pw.sf.extended.txt)
 
-
-##### Special thanks to [AlphaJarvis](https://github.com/AlphaJarvis) for the help.
+- ### invalid/other:
+    - #### [Invalid-Other](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Paperwork/invalid-other/pw.io.txt)
 
 <br>
 
 ---
 
-## Ideas/Mistakes:
+## Documentation:
 
-If you have any ideas you want to see in a paperwork structure or found a mistake, feel free to contact me in IRC. :)
+Click [here](https://github.com/CyberHD1811/FuelRats-Paperwork/blob/master/Documentation/DOCUMENTATION.md) to go to the documentation.
+
+<br>
+
+---
+
+## Miscellaneous:
+
+#### Special thanks to [AlphaJarvis](https://github.com/AlphaJarvis) for the help!
+
+If you have any idea you want to see in one (or even more) Paperwork Structures, feel free to contact me in the Fuel Rats IRC.
