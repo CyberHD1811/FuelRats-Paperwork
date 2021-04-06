@@ -13,7 +13,10 @@ Limpets fired: /
 Rescue notes: Client had 30secs of o2 left (not the 3 1/2 mins they told us), he was a blind drop, got inst+ 8,43km but they god destroyed before i could target them.
 
 Debrief type: unresponsive
+Debrief language: en
 Debrief notes: Client didn't react to wing chat, left them after 15mins (they didn't even respawned in this time).
+Debrief done by OmegaJarvis
+
 Extra Links: /
 
 Dispatcher: SpatchRat

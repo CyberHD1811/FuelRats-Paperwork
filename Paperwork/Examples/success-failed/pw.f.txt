@@ -6,6 +6,7 @@ Fuel Scoop: no
 Limpets fired: /
 
 Debrief type: extended
+Debrief language: de
 Debrief: Told Client about allegiance filter, fuel scoops, kgbfoam + filter and orange line.
 
 Dispatcher: RatSpatch

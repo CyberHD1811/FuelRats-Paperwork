@@ -20,6 +20,7 @@ At the top of each explanation is the link to each raw file and at the bottom to
         - Fuel Scoop: yes/no [Delete the wrong one]
         - Limpets fired: [The amount of fired limpets, your Limpets + the name of every other rat who fired limpets]
         - Debrief type: basic/extended/declined/unresponsive/other [basic: client had a fuel scoop [told about kgbfoam, filter for kgbfoam and the orange line] or client had no scoop [told about allegiance/economy filter and the orange line]; extended: client had no scoop [told about allegiance/economy filter, kgbfoam, filter for kgbfoam and the orange line]; declined: client said they don't want a debrief; unresponsive: client doesn't react to any messages or he left wing/the whole game; other: everything else]
+        - Debrief language: en [The language of the debrief: Normally it will be english but sometimes you have native speaking rats with you who could communicate in the native language or you used #debrief]
         - Debrief: [Everything you want to say about the rescue]
         - Dispatcher: [The names of all Dispatchers]
         - Paperwork done by [Your name] with https://github.com/CyberHD1811/FuelRats-Paperwork/ o7
@@ -41,7 +42,9 @@ At the top of each explanation is the link to each raw file and at the bottom to
         - Limpets fired: [The amount of fired limpets, your Limpets + the name of every other rat who fired limpets]
         - Rescue notes: [Everything you want to say about the rescue]
         - Debrief type: basic/extended/declined/unresponsive/other [basic: client had a fuel scoop [told about kgbfoam, filter for kgbfoam and the orange line] or client had no scoop [told about allegiance/economy filter and the orange line]; extended: client had no scoop [told about allegiance/economy filter, kgbfoam, filter for kgbfoam and the orange line]; declined: client said they don't want a debrief; unresponsive: client doesn't react to any messages or he left wing/the whole game; other: everything else]
+        - Debrief language: en [The language of the debrief: Normally it will be english but sometimes you have native speaking rats with you who could communicate in the native language or you used #debrief]
         - Debrief: [Everything you want to say about the rescue]
+        - Debrief done by [The rat who did the debrief]
         - Extra Links: [E.g pastebin, etc]
         - Dispatcher: [The names of all Dispatchers]
         - Paperwork done by [Your name] with https://github.com/CyberHD1811/FuelRats-Paperwork/ o7

@@ -6,6 +6,7 @@ Fuel Scoop: yes
 Limpets fired: 12
 
 Debrief type: basic
+Debrief language: en
 Debrief: Client knew about kgbfoam, but not about the kgbfoam filter and the orange line.
 
 Dispatcher: RatSpatch

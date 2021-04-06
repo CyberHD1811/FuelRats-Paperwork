@@ -13,7 +13,10 @@ Limpets fired:
 Rescue notes:
 
 Debrief type: basic/extended/declined/unresponsive/other
+Debrief language: en
 Debrief notes:
+Debrief done by
+
 Extra Links:
 
 Dispatcher:

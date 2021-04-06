@@ -13,7 +13,10 @@ Limpets fired: 8
 Rescue notes: Rescue followed CR SOP, Client was still in other system even with menu sys check.
 
 Debrief type: extended
+Debrief language: ru
 Debrief notes: Told Client about economy filter, fuelscoops + kgbfoam + kgbfoam filter, orange line, escorted them to a near station (HIP 11847).
+Debrief done by RussianNativeRat
+
 Extra Links: /
 
 Dispatcher: CyberHD
