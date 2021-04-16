@@ -1,0 +1,28 @@
+Paperwork-Structure of Elite Dangerous Odyssey Alpha (WIP)
+Filed as: success/failed
+
+Cmdr name:
+Rank:
+
+Ship type:
+Ship name:
+Ship id:
+Fuel Scoop: yes/no
+
+Systems:
+Limpets fired:
+Rescue notes:
+
+Debrief type: basic/extended/declined/unresponsive/other
+Debrief language: en
+Debrief notes:
+Debrief done by
+
+Extra Links:
+Bugs that occured:
+
+Dispatcher:
+
+Paperwork done by
+with https://github.com/CyberHD1811/FuelRats-Paperwork/
+o7
